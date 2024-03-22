@@ -1,0 +1,7 @@
+entorno_hospital
+__pycache__/
+.env
+HospitalSalud OcupacionalPostgres.sql
+HospitalSaludOcupacional.png
+HospitalSaludOcupacionalSQLServer.sql
+comandos.txt
